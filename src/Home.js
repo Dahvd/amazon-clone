@@ -34,24 +34,24 @@ function Home() {
             rating={3}
           />
           <Product
+            title='Clean Code: A Handbook of Agile Software Craftsmanship'
+            price={41.5}
+            image='https://m.media-amazon.com/images/I/81jRujEs6uL._AC_UY218_.jpg'
+            rating={4}
+          />
+          <Product
             title='Hydro Flask Standard Mouth Flex Lid Water Bottle - Stainless Steel, Reusable, Vacuum Insulated'
             price={32.99}
             image='https://images-na.ssl-images-amazon.com/images/I/51JWdfCASRS.__AC_SX300_SY300_QL70_FMwebp_.jpg'
             rating={5}
           />
-          <Product
-            title='MOON LENCE Camping Tent 2/4/6 Person Family Tent Double Layer Outdoor Tent Waterproof Windproof Anti-UV'
-            price={70.79}
-            image='https://m.media-amazon.com/images/I/61nPipPXGbL._AC_UY218_.jpg'
-            rating={4}
-          />
         </div>
 
         <div className='home__row'>
           <Product
-            title='Clean Code: A Handbook of Agile Software Craftsmanship'
-            price={41.5}
-            image='https://m.media-amazon.com/images/I/81jRujEs6uL._AC_UY218_.jpg'
+            title='MOON LENCE Camping Tent 2/4/6 Person Family Tent Double Layer Outdoor Tent Waterproof Windproof Anti-UV'
+            price={70.79}
+            image='https://m.media-amazon.com/images/I/61nPipPXGbL._AC_UY218_.jpg'
             rating={4}
           />
         </div>
