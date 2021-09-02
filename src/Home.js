@@ -35,7 +35,7 @@ function Home() {
           />
           <Product
             title='Clean Code: A Handbook of Agile Software Craftsmanship'
-            price={41.5}
+            price={41.51}
             image='https://m.media-amazon.com/images/I/81jRujEs6uL._AC_UY218_.jpg'
             rating={4}
           />
